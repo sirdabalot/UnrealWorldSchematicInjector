@@ -1,0 +1,26 @@
+use symbols in relative positions to tiles,
+an example file has been included
+
+= North Wall
+- South Wall
+[ East Wall
+] West Wall
+
+q NW Wall
+e NE Wall
+z SW Wall
+c SE Wall
+
+i Interior
+d Door
+o shutter
+
+f fireplace
+s sauna stove
+t table
+b bench
+
+* spruce
+x cellar
+
+anything else is counted as an overwrite with empty

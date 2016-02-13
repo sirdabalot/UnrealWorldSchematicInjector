@@ -1,0 +1,22 @@
+enter symbols in the respective positions in the file, make sure to end each row with a semicolon (;)
+
+= northwall
+- southwall
+| westwall
+: eastwall
+
+q nwwall
+e newall
+z swwall
+x sewall
+
+i interior
+
+d door
+o shutter
+f fireplace
+s saunastove
+b bench
+t table
+
+-an example has been provided (example.txt)-
